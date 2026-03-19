@@ -6,7 +6,4 @@ I am currently working on a Gmail Clone project, focusing on implementing real-t
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Bhisham-Goyal&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=true)
 ![](https://nirzak-streak-stats.vercel.app/?user=Bhisham-Goyal&theme=codeSTACKr&hide_border=true)
-Goyal&theme=codeSTACKr&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
